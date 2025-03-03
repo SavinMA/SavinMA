@@ -1,5 +1,5 @@
 I`m software developer. I have experience in developing desktop and web applications of varying complexity. Four full years of work in Russian companies and some experience in outsourcing. 
-___Custom development is possible at a rate of $30-40/hour.___
+___Custom development is possible at a rate of $20-50/hour.___
 
 ## Experience 
 My main development language is [C#](https://learn.microsoft.com/dotnet/csharp/)
@@ -41,4 +41,4 @@ Now I work in a [company](https://meridiant.ru) that develops software for piece
 1. [Meridian](https://meridiant.ru) (11.2018 - 04.2020)
 2. [Rio-Soft](https://rio-soft.ru) (04.2020 - 03.2021)
 3. [GIRGNM PSTU](http://girngm.pstu.ru/) (04.2021 - 12.2021)
-4. **[Meridian](https://meridiant.ru) (01.2022 - now)**
+4. [Meridian](https://meridiant.ru) (01.2022 - 01.2025)
